@@ -1,5 +1,5 @@
 # PRODIGY_WD_05
-### 🌦️Weather App
+### 🌦️Weather App:
 
 A lightweight and responsive web application that shows real-time weather information for any city around the world.
 Built using HTML, CSS, and JavaScript, this project fetches live data from the OpenWeather API and displays the temperature, humidity, and wind speed of the searched location.
@@ -18,7 +18,7 @@ Built using HTML, CSS, and JavaScript, this project fetches live data from the O
 
 📱 Responsive Design: Works well on desktop, tablet, and mobile screens.
 
-### 🛠️Technologies Used
+### 🛠️Technologies Used:
 
 HTML: Structure of the web page.
 
@@ -28,7 +28,7 @@ JavaScript: Logic to handle API requests, process responses, and update the DOM 
 
 OpenWeather API: Source of real-time weather data.
 
-### 📌How It Works
+### 📌How It Works:
 
 The user enters a city name into the search box.
 
